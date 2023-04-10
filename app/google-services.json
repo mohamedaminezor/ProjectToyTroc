@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "firebase_url": "https://toytroc-49e64-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_number": "341053985182",
+    "project_id": "toytroc-49e64",
+    "storage_bucket": "toytroc-49e64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341053985182:android:2b4c0963b649922101868f",
+        "android_client_info": {
+          "package_name": "com.mobelite.toytroc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341053985182-bqv3f3irrkdnrpa3o14mkvvqe1030bi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJxAAnK8IAW7AiTu-4uUPYYxdUZzzzlg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341053985182-bqv3f3irrkdnrpa3o14mkvvqe1030bi5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

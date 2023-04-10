@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sign_in">connexion</string>
+    <string name="create_acc">créer un compte</string>
+    <string name="Email">Email</string>
+    <string name="Password">Mot de passe</string>
+    <string name="Next">suivant</string>
+    <string name="Name">Prenom</string>
+    <string name="last_name">Nom</string>
+    <string name="Number">Numéro de téléphone</string>
+    <string name="TextView">veuillez s\'il vous plait m\'envoyer vos coordonnées</string>
+    <string name="step">Étape 1/2</string>
+    <string name="Go_back">retourner</string>
+    <string name="realG">il vous plaît donnez-nous un vrai Gmail</string>
+    <string name="realN">il vous plaît donnez-nous un vrai prenom</string>
+    <string name="realL">il vous plaît donnez-nous  un vrai nom</string>
+    <string name="empty">tu as laissé quelque chose de vide</string>
+    <string name="realNb">veuillez nous donner un vrai numéro de téléphone</string>
+</resources>

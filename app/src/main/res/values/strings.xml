@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">ToyTroc</string>
+    <string name="toy_image">your_toy_image_url_here</string>
+    <string name="stuffed_toy">stuffed toy</string>
+    <string name="sign_in">Sign in</string>
+    <string name="create_acc">create account</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Next">Next</string>
+    <string name="Name">Name</string>
+    <string name="last_name">Last name</string>
+    <string name="Number">Number</string>
+    <string name="TextView">Please give us your credentials</string>
+    <string name="step">Step 1/2</string>
+    <string name="Go_back">Go back</string>
+    <string name="Ariana">Ariana</string>
+    <string name="Béja">Béja</string>
+    <string name="Ben_Arous">Ben Arous</string>
+    <string name="Bizerte">Bizerte</string>
+    <string name="Gabès">Gabès</string>
+    <string name="Gafsa">Gafsa</string>
+    <string name="Jendouba">Jendouba</string>
+    <string name="Kairouan">Kairouan</string>
+    <string name="Kasserine">Kasserine</string>
+    <string name="Kebili">Kebili</string>
+    <string name="Kef">Kef</string>
+    <string name="Mahdia">Mahdia</string>
+    <string name="Manouba">Manouba</string>
+    <string name="Medenine">Medenine</string>
+    <string name="Monastir">Monastir</string>
+    <string name="Nabeul">Nabeul</string>
+    <string name="Sfax">Sfax</string>
+    <string name="Sidi_Bouzid">Sidi Bouzid</string>
+    <string name="Siliana">Siliana</string>
+    <string name="Sousse">Sousse</string>
+    <string name="Tataouine">Tataouine</string>
+    <string name="Tozeur">Tozeur</string>
+    <string name="Tunis">Tunis</string>
+    <string name="Zaghouan">Zaghouan</string>
+    <string name="realN">please give us a real name</string>
+    <string name="realL">please give us a real last name</string>
+    <string name="empty">you left something empty</string>
+    <string name="realNb">please give us a real phone number</string>
+    <string name="realG">please give us a real Gmail</string>
+    <string name="Action_figures">Action figures</string>
+    <string name="cars">cars</string>
+    <string name="creative_toys">creative toys</string>
+    <string name="musical_toys">musical toys</string>
+<string name="stuffed_toys">stuffed toys</string>
+    <string name="action">action</string>
+    <string name="horror">horror</string>
+    <string name="moba">moba</string>
+    <string name="toys">toys</string>
+    <string name="title">title</string>
+    <string name="image">image</string>
+    <string name="videogames">videogames</string>
+    <string name="toysdata">toysdata</string>
+    <string name="videogamesdata">videogamesdata</string>
+
+
+
+</resources>

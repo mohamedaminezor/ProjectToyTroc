@@ -1,0 +1,52 @@
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cv_cardView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="4dp"
+    android:clickable="true"
+    android:focusable="true"
+    android:foreground="?selectableItemBackground"
+    app:cardCornerRadius="10dp">
+
+
+    <RelativeLayout
+        android:id="@+id/rl_wrapper"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="20dp">
+
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/ChildImage"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:adjustViewBounds="true"
+            android:scaleType="centerCrop"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:shapeAppearanceOverlay="@style/RoundCorner"
+            android:src="@drawable/horror"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignTop="@+id/ChildImage"
+            android:layout_alignBottom="@+id/ChildImage"
+            android:layout_toEndOf="@+id/ChildImage"
+            android:orientation="vertical">
+
+            <CheckBox
+                android:id="@+id/ChildcheckBox"
+
+                android:layout_width="204dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="18dp"
+                android:button="@null"
+                android:drawableRight="@drawable/checkbox"
+                android:text="Horror    "
+                android:textSize="18sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>
